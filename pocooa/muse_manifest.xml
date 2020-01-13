@@ -1,0 +1,23 @@
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="kekeli.world" resolutions="1x" timestamp="1571077396599">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="index.css" crc="4264499582" ref="index"/>
+  </folder>
+  <folder name="assets">
+    <file name="画板备份-14.jpg" crc="4202737332" seo="true" mt="1571076132000"/>
+    <file name="画板备份-15.jpg" crc="190798151" seo="true" mt="1571076133000"/>
+    <file name="画板备份-16.jpg" crc="4098029515" seo="true" mt="1571076132000"/>
+    <file name="画板备份-17.jpg" crc="4027490716" seo="true" mt="1571076132000"/>
+    <file name="画板备份-18.jpg" crc="3875302558" seo="true" mt="1571076132000"/>
+    <file name="画板备份-19.jpg" crc="4225448326" seo="true" mt="1571076132000"/>
+    <file name="画板.jpg" crc="4119231008" seo="true" mt="1571077074000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="340535759" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="4286661555" ref="index"/>
+    <file name="require.js" crc="7928878" ref="index"/>
+  </folder>
+  <file name="index.html" crc="399922051" seo="true" mt="1571077235200" redirect="true"/>
+</manifest>
